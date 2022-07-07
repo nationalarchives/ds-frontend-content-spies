@@ -1,0 +1,6 @@
+Hello $$RECIPIENT_NAME$$,
+
+You have been sent an encrypted message from $$SENDER_NAME$$.
+
+To decode the message, visit the Public Record Office "Secrets and Spies" Web site at 
+$$RETURN_URL$$

@@ -1,0 +1,139 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px; 
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-image:  url("../images/bg_olive.jpg");
+}
+a{
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+}
+a:visited
+{
+   	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+}
+a:hover
+{
+   	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+    	TEXT-DECORATION: underline
+}
+.breadcrumb {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #F8F8F8;
+}
+.notes {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #333333;
+}
+.bodyblack {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #333333;
+}
+.bodyblackbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #333333;
+	font-weight: bold;
+}
+.proref {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #666666;
+	font-weight: bold;
+}
+a.bodyblack:visited
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+a.bodyblack:hover
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+a.breadcrumb:visited
+{
+	text-decoration : none;
+	color : #FFFFFF;
+}
+a.breadcrumb:hover
+{
+	color : #FF3333;
+	text-decoration : underline;
+}.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+}
+.error {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1em;
+	color: #333333;
+	font-weight: bold;
+}
+.formbox
+{
+    FONT-SIZE: 0.8em;
+    WIDTH: 250px;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.dropbox
+{
+    FONT-SIZE: 0.7em;
+    WIDTH: 625px;
+    COLOR: #333333;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.hometable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #FFFFFF;
+	background-color: #333333;
+	padding: 3px;
+
+}
+.hometable a:link
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+
+.hometable a:visited
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+.hometable a:hover
+{
+	text-decoration : underline;
+	color: #ffffff;
+}
+.eventsheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #CCCCCC;
+	padding-bottom: 3px;
+
+}
+h3 {
+	font-size: 1em;
+	margin: 0px;
+	padding: 0px;
+}

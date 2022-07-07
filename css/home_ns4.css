@@ -1,0 +1,108 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px; 
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-image: url(../../secretsandspies/css/homeimages/bg.jpg);
+}
+.cipher {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color:  #660000;
+}
+a.cipher:visited
+{
+	text-decoration : none;
+	color:  #660000;
+}
+a.cipher:hover
+{
+	text-decoration : none;
+	color:  #FF3333;
+}
+.spies {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #003366;
+}
+a.spies:visited
+{
+	text-decoration : none;
+	color: #003366;
+}
+a.spies:hover
+{
+	text-decoration : none;
+	color: #FF3333;
+}
+.cm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #666600;
+}
+a.cm:visited
+{
+	text-decoration : none;
+	color: #666600;
+}
+a.cm:hover
+{
+	text-decoration : none;
+	color: #FF3333;
+}
+
+.bodyblackbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	color: #333333;
+	font-weight: bold;
+}
+a.bodyblackbold:visited
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+a.bodydblackbold:hover
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+.hometable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #FFFFFF;
+	background-color: #333333;
+	padding: 3px;
+
+}
+.hometable a:link
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+
+.hometable a:visited
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+.hometable a:hover
+{
+	text-decoration : underline;
+	color: #ffffff;
+}
+.eventsheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #CCCCCC;
+	padding-bottom: 3px;
+
+}
+h3 {
+	font-size: 1em;
+	margin: 0px;
+	padding: 0px;
+}

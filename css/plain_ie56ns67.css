@@ -1,0 +1,91 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px; 
+	background-color: #FFFFFF;
+}
+a{
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+}
+a:visited
+{
+   	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+}
+a:hover
+{
+   	font-family : Verdana, Arial, Helvetica, sans-serif;
+	text-decoration : none;
+	color : #FF3333;
+    	TEXT-DECORATION: underline
+}
+.bodyblack {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #333333;
+}
+.bodyblackbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #333333;
+	font-weight: bold;
+}
+.proref {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #666666;
+	font-weight: bold;
+}
+a.bodyblack:visited
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+a.bodyblack:hover
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+	color : #FF3333;
+	text-decoration : underline;
+}
+.hometable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #FFFFFF;
+	background-color: #333333;
+	padding: 3px;
+
+}
+.hometable a:link
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+
+.hometable a:visited
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+.hometable a:hover
+{
+	text-decoration : underline;
+	color: #ffffff;
+}
+.eventsheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #CCCCCC;
+	padding-bottom: 3px;
+
+}
+h3 {
+	font-size: 1em;
+	margin: 0px;
+	padding: 0px;
+}

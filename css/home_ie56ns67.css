@@ -1,0 +1,128 @@
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px; 
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-image:  url("../homeimages/bg.jpg");
+}
+.cipher {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color:  #660000;
+}
+.cipher a:visited
+{
+	text-decoration : none;
+	color:  #660000;
+}
+.cipher a:hover
+{
+	text-decoration : none;
+	color:  #FF3333;
+}
+.cipher a:link
+{
+	text-decoration : none;
+	color:  #660000;
+}
+.spies {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color: #003366;
+}
+.spies a:visited
+{
+	text-decoration : none;
+	color: #003366;
+}
+.spies a:hover
+{
+	text-decoration : none;
+	color: #FF3333;
+}
+.spies a:link
+{
+	text-decoration : none;
+	color: #003366;
+}
+.cm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color: #666600;
+}
+.cm a:visited
+{
+	text-decoration : none;
+	color: #666600;
+}
+.cm a:hover
+{
+	text-decoration : none;
+	color: #FF3333;
+}
+.cm a:link
+{
+	text-decoration : none;
+	color: #666600;
+}
+
+.bodyblackbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #333333;
+	font-weight: bold;
+}
+.bodyblackbold a:visited
+{
+	text-decoration : none;
+	color : #FF3333;
+}
+.bodyblackbold a:hover
+{
+	text-decoration : underline;
+	color : #FF3333;
+}
+.bodyblackbold a:link
+{
+	text-decoration : none;
+	color : #FF3333;
+}
+.hometable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+	color: #FFFFFF;
+	background-color: #333333;
+	padding: 3px;
+
+}
+.hometable a:link
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+
+.hometable a:visited
+{
+	text-decoration : none;
+	color: #ffffff;
+}
+.hometable a:hover
+{
+	text-decoration : underline;
+	color: #ffffff;
+}
+.eventsheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #CCCCCC;
+	padding-bottom: 3px;
+
+}
+h3 {
+	font-size: 1em;
+	margin: 0px;
+	padding: 0px;
+}
